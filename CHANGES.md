@@ -1,0 +1,5 @@
+# Source changes — review draft
+
+Baseline: Clam PmcReader commit `83e86bebc3a8a88d7baf697989ce06e204bfdfe8`. `CLAM-SOURCE-DIFF.txt` records the comparisons. Twenty-two PmcReader files with non-whitespace textual differences were marked with a comment identifying that baseline in this review copy. The exact original tested build source is retained separately for internal review; each of these 22 candidate files consists of the original source bytes with the comment inserted after any UTF-8 BOM. The changes relative to Clam include CPU topology mapping, monitoring configurations, diagnostics, UI and framework compatibility. Consult the diff for each file; not every difference has been proven to alter runtime behavior.
+
+Three MPL-marked Interop files also differ from Clam: AdvApi32.cs, KernelDriver.cs, Ring0.cs. They carry the same added comment-only change notice, with their existing MPL notices retained. The precise LibreHardwareMonitor source revision remains unknown; preserve the MPL notices and make the corresponding source available with the release. Four files absent from the Clam snapshot also appear in CapFrameX.

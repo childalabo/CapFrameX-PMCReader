@@ -1,0 +1,13 @@
+CapFrameX.Contracts.dll 1.0.0.0 DF5CE127099ADFC52CA1B5BDC1D1C3FB286729A817B8E1AD70DD4E2695EA1429
+LibreHardwareMonitorLib.dll 1.0.0.0 AF7AB2930D126541B528DB5FADAA0B5C02105B086BFFECEC82395631BFF0AA5B
+Serilog.dll 2.0.0.0 A6470C5ACC164AE8ACB72D8F9A02BD947FAF71C262BF467B7DE974495C02B53F
+System.Management.dll 10.0.0.11 5015234A7B7535454440D50831E206C3E39C97B8FCE37502658A7F8559B244E4
+System.Reactive.dll 6.1.0.0 C1CAE1A8B97D5E0ED64F7A9947F6AE44498398B6E9EE71473C2BEF24646E91F8
+
+## Embedded file/product version metadata (2026-10-27)
+These are metadata from the referenced local files, not proof of independently obtainable package identity. Hashes above identify the exact bytes. Confirm acquisition locations and framework SDK/targeting-pack versions in a clean environment before release.
+CapFrameX.Contracts.dll | file 1.0.0.0 | product 1.0.0.0
+LibreHardwareMonitorLib.dll | file 1.0.0.0 | product 1.0.0+840ba24d76a2c26b8f9f5f77fa2509166b5dd670
+Serilog.dll | file 2.9.0.0 | product 2.9.0-master-655778f+655778f74384f682d2c8705ab4883c39ef17e44d
+System.Management.dll | file 10.0.1126.37416 | product 10.0.11+e2f47b0110ed922f21a1522da67279133ce28f32
+System.Reactive.dll | file 6.1.0.62682 | product 6.1.0+f4da16f15a

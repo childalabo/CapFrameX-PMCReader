@@ -1,0 +1,9 @@
+# License consistency check — local candidate
+
+- Clam: Apache 2.0 license text, including its appendix, is in licenses/LICENSE-PmcReader-Apache-2.0.txt. The 22 previously identified files include a changed-file notice; the comparison is in CHANGES.md and CLAM-SOURCE-DIFF.txt. Existing notices visible in candidate sources have not been removed by the added comments.
+- LibreHardwareMonitor: licenses/LICENSE-LibreHardwareMonitor.txt includes MPL 2.0 and Exhibits A/B. The six named Interop files are present under source/PmcReader/Interop and retain their MPL 2.0 and copyright notices. Three include a comment-only Clam comparison notice. The exact upstream revision is not known; that is not itself a claim that the source is missing.
+- CapFrameX: licenses/LICENSE-CapFrameX.txt includes the MIT terms and Copyright (c) 2018-2026 DevTechProfile.
+- Newly created code: licenses/LICENSE-New-Project-Code.txt contains MIT terms and Copyright (c) 2026 childalabo, limited as stated to new code to the extent it contains no third-party material or rights.
+- WinRing0: licenses/LICENSE-WinRing0-DRAFT.txt retains copyright, both conditions and the entire disclaimer. NOTICE.md records the previous reasonable BSD assessment and the original archive limitation. This check does not establish the absence of undiscovered third-party terms.
+
+Publication step still needed: set links in the Release description to the exact repository revision containing NOTICE.md, license texts and corresponding MPL source. Binary distribution materials must include or link recipients to the complete WinRing0 notice. The URL and revision do not exist until the repository is prepared. The owner must explicitly instruct publication. This check is confined to the existing candidate, not a new provenance or legal audit.
